@@ -8,4 +8,5 @@
 * 🧠 Building RAG systems using **LlamaIndex, Qdrant, Cohere, Groq, and Langfuse**
 * 📊 Interested in **Data Science, Data Analysis, AI Engineering, and Generative AI**
 * 🤝 Open to collaborating on **AI/ML, Data Science, Django, and RAG projects**
-* 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-taha-shayan-837984260/) and [Instagram](https://instagram.com/tahashayan83)
+* 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-taha-shayan-837984260/) and [Gmail](mailto:tahashayan812@gmail.com)
+
