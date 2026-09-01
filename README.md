@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Tahashayan
-- 👀 I’m interested in Data Science, Data Analysis
-- 🌱 I’m currently learning Data Science, Data Analysis, NLP, Machine Learning and Deep Learning 
-- 💞️ I’m looking to collaborate on working with Data Scientist
-- 📫 How to reach me https://www.linkedin.com/in/muhammad-taha-shayan-837984260/ , https://instagram.com/tahashayan83?igshid=OGQ5ZDc2ODk2ZA==
+# 👋 Hi, I'm Muhammad Taha Shayan
 
-<!---
-Tahashayan/Tahashayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **AI/ML Engineer | Python & Django Developer | AWS Certified Solution Architect**
+
+* 🔭 Working on **AI applications, RAG systems, LLMs, and backend development**
+* 🐍 Skilled in **Python, Django, REST APIs, SQL, Pandas, NumPy, and Scikit-learn**
+* 🤖 Experienced with **Machine Learning, Deep Learning, NLP, LLMs, LangChain, and LangGraph**
+* 🧠 Building RAG systems using **LlamaIndex, Qdrant, Cohere, Groq, and Langfuse**
+* 📊 Interested in **Data Science, Data Analysis, AI Engineering, and Generative AI**
+* 🤝 Open to collaborating on **AI/ML, Data Science, Django, and RAG projects**
+* 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-taha-shayan-837984260/) and [Instagram](https://instagram.com/tahashayan83)
